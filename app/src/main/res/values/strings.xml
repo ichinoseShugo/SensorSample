@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">SensorSample</string>
+
+    <string-array name="functionList">
+        <item>ACCELEROMETER</item>
+        <item>AMBIENT_TEMPERATURE</item>
+        <item>DEVICE_PRIVATE_BASE</item>
+        <item>GAME_ROTATION_VECTOR</item>
+        <item>GEOMAGNETIC_ROTATION_VECTOR</item>
+        <item>GRAVITY</item>
+        <item>GYROSCOPE</item>
+        <item>GYROSCOPE_UNCALIBRATED</item>
+        <item>HEART_BEAT</item>
+        <item>HEART_RATE</item>
+        <item>LIGHT</item>
+        <item>LINEAR_ACCELERATION</item>
+        <item>MAGNETIC_FIELD</item>
+        <item>MAGNETIC_FIELD_UNCALIBRATED</item>
+        <item>MOTION_DETECT</item>
+        <item>ORIENTATION</item>
+        <item>POSE_6DOF</item>
+        <item>PRESSURE</item>
+        <item>PROXIMITY</item>
+        <item>RELATIVE_HUMIDITY</item>
+        <item>ROTATION_VECTOR</item>
+        <item>SIGNIFICANT_MOTION</item>
+        <item>STEP_COUNTER</item>
+        <item>STEP_DETECTOR</item>
+        <item>TEMPERATURE</item>
+    </string-array>
+
+    <string name="button_list">ChangeList</string>
+</resources>
